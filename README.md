@@ -52,7 +52,7 @@ Cours hébergés par *France université numérique* :
 ### Forums
 
 * [Forum du Cirad](http://forums.cirad.fr/logiciel-R/) : forum du groupe des utilisateurs de R du Cirad, ouvert à tous.
-* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scrit en français
+* [Abcd'R](https://abcdr.guyader.pro/) : Site collaboratif de partage de scripts en français
 
 ## Meetup 
 
@@ -62,8 +62,8 @@ Cours hébergés par *France université numérique* :
 
 ## Séminaires et conférences
 
-* [Conférences semin-r](http://rug.mnhn.fr/semin-r/) : conférences du groupe des utilisateurs de R animé par le Muséum national d’Histoire naturelle.
+* [Conférences semin-r](http://rug.mnhn.fr/semin-r/) : conférences du groupe des utilisateurs de R animé par le Muséum National d’Histoire Naturelle.
 * [Séminaire RUSS](https://russ.site.ined.fr/fr/) : séminaires R à l'Usage des Sciences Sociales (EHESS, INED et CNRS). 
-* [Rencontres R](https://r2018-rennes.sciencesconf.org/) : Les 7eme Rencontres R se tiendront à Rennes du 4 au 6 juillet 2018.
+* [Rencontres R](https://r2018-rennes.sciencesconf.org/) : Les 7èmes Rencontres R se tiendront à Rennes du 4 au 6 juillet 2018.
 
 
